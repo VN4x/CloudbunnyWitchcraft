@@ -14,6 +14,7 @@ WordPress plugin by CoderGF.xyz for scheduling and streaming videos from CloudBu
 1. Upload plugin to wp-content/plugins
 2. Activate in WordPress admin
 3. Configure CloudBunny API settings
+4. Configure Stream URL in plugin settings
 
 ## Requirements
 - WordPress 5.0+
